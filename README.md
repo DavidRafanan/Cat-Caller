@@ -1,6 +1,6 @@
 # Cat-Caller
 
-Cat Caller is an app where you get to choose who to catcall and see if they like it or not 
+Cat Caller is an iOS app where you get to choose who to catcall and see if they like it or not 
 
 <h2>How it works</h2>
 
